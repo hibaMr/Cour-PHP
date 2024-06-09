@@ -1,0 +1,11 @@
+the PHP superglobale variables are :
+
+    -->$GLOBALS      
+    -->$_SERVER         ==> katakhode ga3e les information li kaynine fi server
+    -->$_REQUEST
+    -->$_POST
+    -->$_GET
+    -->$_FILES
+    -->$_ENV
+    -->$_COOKIE
+    -->$_SESSION
